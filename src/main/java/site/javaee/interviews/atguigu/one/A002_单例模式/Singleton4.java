@@ -1,7 +1,7 @@
 package site.javaee.interviews.atguigu.one.A002_单例模式;
 
 /**
- * 2、懒汉式
+ * 4、懒汉式
  *
  * @author Tao
  * @Date 2020/8/14
