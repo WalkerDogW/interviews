@@ -1,2 +1,12 @@
 singleton:
   info: 单例模式之静态代码块
+
+
+
+
+
+#Thymeleaf配置
+spring:
+  thymeleaf:
+    cache: false
+    encoding: utf-8
